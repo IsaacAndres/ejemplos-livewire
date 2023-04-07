@@ -34,8 +34,8 @@ DB_PASSWORD=
 
 ### Ejemplos de uso 
 
-* [Componente de Scroll Infinito](/ejemplos-livewire/blob/main/app/Http/Livewire/InfiniteScroll.php)
-* [Componente de Subida de imagen con vista previa](/ejemplos-livewire/blob/main/app/Http/Livewire/UploadImageWithPreview.php)
+* [Componente de Scroll Infinito](/app/Http/Livewire/InfiniteScroll.php)
+* [Componente de Subida de imagen con vista previa](/app/Http/Livewire/UploadImageWithPreview.php)
 
 ### Documentaciones oficiales / Referencias
 * https://laravel-livewire.com/
