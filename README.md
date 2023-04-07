@@ -9,6 +9,7 @@ Estos ejemplos pueden útiles para quienes se están iniciando en Livewire y  ta
 
 **Funciones:**
 * Paginación de scroll infinito
+* Subida de imagen con vista previa
     
 ### Instalación
 
@@ -31,10 +32,10 @@ DB_PASSWORD=
 6. Instalar las dependencias de npm, ejecutar: ``` npm install ```
 7. Ejecutar comando artisan:  ``` php artisan storage:link ```
 
-### Ejemplos de uso
+### Ejemplos de uso 
 
-* [Componente de Scroll Infinito](#)
-* [Componente de Subida de imagen con vista previa](#)
+* [Componente de Scroll Infinito](/ejemplos-livewire/blob/main/app/Http/Livewire/InfiniteScroll.php)
+* [Componente de Subida de imagen con vista previa](/ejemplos-livewire/blob/main/app/Http/Livewire/UploadImageWithPreview.php)
 
 ### Documentaciones oficiales / Referencias
 * https://laravel-livewire.com/
